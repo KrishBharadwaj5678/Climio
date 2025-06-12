@@ -89,4 +89,3 @@ We welcome contributions of all kinds!
 
 7. 📬 **Open a Pull Request**
        - Go to your forked repo on GitHub and click **Compare & pull request**.
-
