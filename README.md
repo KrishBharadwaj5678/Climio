@@ -18,11 +18,11 @@
 
 ## 🛠️ Tech Stack
 
-| Technology      | Description                                                    |
-|------------------|----------------------------------------------------------------|
-| **ReactJS**       | JavaScript library for building interactive UIs               |
-| **CSS3**          | Styles the layout and design of the application                |
-| **Weather API**   | Provides real-time weather data                                |
+| 🧩 Technology      | 📋 Description                                                    |
+|-------------------|------------------------------------------------------------------|
+| ⚛️ **ReactJS**      | JavaScript library for building interactive UIs                 |
+| 🎨 **CSS3**          | Styles the layout and design of the application                |
+| 🌦️ **Weather API**   | Provides real-time weather data                                |
 
 ---
 
