@@ -30,9 +30,19 @@
 
 ```bash
 git clone https://github.com/your-username/climio.git
-cd climio
-open index.html
-````
+```
+
+```bash
+cd Climio
+```
+
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
 
 ---
 
