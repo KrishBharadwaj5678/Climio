@@ -1,12 +1,40 @@
-# React + Vite
+# 🌤️ Climio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Climio** is a sleek and responsive weather web application that delivers real-time weather updates in a clean, modern UI. 
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+| Feature                         | Description                                       |
+|---------------------------------|---------------------------------------------------|
+| 🌍 City Search                 | Search weather data by entering city names        |
+| 📍 Real-Time Metrics           | Shows live temperature, humidity, wind speed      |
+| 🌤️ Weather Icons              | Displays icons based on weather conditions        |
+| 📱 Responsive Design           | Works seamlessly on mobile, tablet, and desktop   |
+| ⚡ Lightweight & Fast          | Minimal and optimized for speed                   |
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+- **Weather API (e.g., OpenWeatherMap)**
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/climio.git
+cd climio
+open index.html
+````
+
+---
+
+
+
+
+
