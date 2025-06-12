@@ -31,7 +31,7 @@
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/climio.git
+git clone https://github.com/KrishBharadwaj5678/Climio.git
 ````
 
 2️⃣ **Navigate to the project folder**
@@ -63,7 +63,7 @@ We welcome contributions of all kinds!
 2. 👯 **Clone your forked repository**
 
    ```bash
-   git clone https://github.com/your-username/climio.git
+   git clone https://github.com/KrishBharadwaj5678/Climio.git
     ````
 
 3. 🌱 **Create a new branch**
