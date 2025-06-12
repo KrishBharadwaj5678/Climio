@@ -1,6 +1,6 @@
 # 🌤️ Climio
 
-**Climio** is a sleek and responsive weather web application that delivers real-time weather updates in a clean, modern UI. 
+**Climio** is a sleek and responsive weather web application that delivers real-time weather updates in a clean, modern UI. ☀️
 
 ---
 
@@ -9,18 +9,20 @@
 | Feature                         | Description                                       |
 |---------------------------------|---------------------------------------------------|
 | 🌍 City Search                 | Search weather data by entering city names        |
-| 📍 Real-Time Metrics           | Shows live temperature, humidity, wind speed      |
+| 📍 Real Time Metrics           | Shows live temperature, humidity, wind speed      |
 | 🌤️ Weather Icons              | Displays icons based on weather conditions        |
 | 📱 Responsive Design           | Works seamlessly on mobile, tablet, and desktop   |
 | ⚡ Lightweight & Fast          | Minimal and optimized for speed                   |
+
 ---
 
 ## 🛠️ Tech Stack
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
-- **Weather API (e.g., OpenWeatherMap)**
+| Technology      | Description                                                    |
+|------------------|----------------------------------------------------------------|
+| **ReactJS**       | JavaScript library for building interactive UIs               |
+| **CSS3**          | Styles the layout and design of the application                |
+| **Weather API**   | Provides real-time weather data                                |
 
 ---
 
